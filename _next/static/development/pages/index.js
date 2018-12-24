@@ -20576,13 +20576,20 @@ function (_React$Component) {
           lineNumber: 88
         },
         __self: this
-      }, "Welcome to Butterfly Butters and Oils")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(reactstrap__WEBPACK_IMPORTED_MODULE_3__["Carousel"], {
+      }, "Welcome to Butterfly Butters and Oils!")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+        className: "container marketing",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 90
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(reactstrap__WEBPACK_IMPORTED_MODULE_3__["Carousel"], {
         activeIndex: activeIndex,
         next: this.next,
         previous: this.previous,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 90
+          lineNumber: 91
         },
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(reactstrap__WEBPACK_IMPORTED_MODULE_3__["CarouselIndicators"], {
@@ -20591,7 +20598,7 @@ function (_React$Component) {
         onClickHandler: this.goToIndex,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 95
+          lineNumber: 96
         },
         __self: this
       }), slides, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(reactstrap__WEBPACK_IMPORTED_MODULE_3__["CarouselControl"], {
@@ -20600,7 +20607,7 @@ function (_React$Component) {
         onClickHandler: this.previous,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 97
+          lineNumber: 98
         },
         __self: this
       }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(reactstrap__WEBPACK_IMPORTED_MODULE_3__["CarouselControl"], {
@@ -20609,17 +20616,10 @@ function (_React$Component) {
         onClickHandler: this.next,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 98
+          lineNumber: 99
         },
         __self: this
       })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-        className: "container marketing",
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 100
-        },
-        __self: this
-      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "row",
         __source: {
           fileName: _jsxFileName,
@@ -20636,7 +20636,6 @@ function (_React$Component) {
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
         className: "rounded-circle",
         src: "static/item-1.jpg",
-        alt: "Generic placeholder image",
         width: "140",
         height: "140",
         __source: {
@@ -20662,16 +20661,23 @@ function (_React$Component) {
           lineNumber: 106
         },
         __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
+        href: "/products",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 106
+        },
+        __self: this
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
         className: "btn btn-secondary",
-        href: "#",
+        href: "/products",
         role: "button",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 106
         },
         __self: this
-      }, "View details \xBB"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      }, "View details \xBB")))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "col-lg-4",
         __source: {
           fileName: _jsxFileName,
@@ -20681,7 +20687,6 @@ function (_React$Component) {
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
         className: "rounded-circle",
         src: "static/item-2.jpg",
-        alt: "Generic placeholder image",
         width: "140",
         height: "140",
         __source: {
@@ -20707,16 +20712,23 @@ function (_React$Component) {
           lineNumber: 112
         },
         __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
+        href: "/products",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 112
+        },
+        __self: this
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
         className: "btn btn-secondary",
-        href: "#",
+        href: "/products",
         role: "button",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 112
         },
         __self: this
-      }, "View details \xBB"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      }, "View details \xBB")))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "col-lg-4",
         __source: {
           fileName: _jsxFileName,
@@ -20726,7 +20738,6 @@ function (_React$Component) {
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
         className: "rounded-circle",
         src: "static/item-3.jpg",
-        alt: "Generic placeholder image",
         width: "140",
         height: "140",
         __source: {
@@ -20752,16 +20763,23 @@ function (_React$Component) {
           lineNumber: 118
         },
         __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
+        href: "/products",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 118
+        },
+        __self: this
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
         className: "btn btn-secondary",
-        href: "#",
+        href: "/products",
         role: "button",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 118
         },
         __self: this
-      }, "View details \xBB")))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      }, "View details \xBB"))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "row",
         __source: {
           fileName: _jsxFileName,
@@ -20778,7 +20796,6 @@ function (_React$Component) {
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
         className: "rounded-circle",
         src: "static/item-4.jpg",
-        alt: "Generic placeholder image",
         width: "140",
         height: "140",
         __source: {
@@ -20804,16 +20821,23 @@ function (_React$Component) {
           lineNumber: 127
         },
         __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
+        href: "/products",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 127
+        },
+        __self: this
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
         className: "btn btn-secondary",
-        href: "#",
+        href: "/products",
         role: "button",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 127
         },
         __self: this
-      }, "View details \xBB"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      }, "View details \xBB")))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "col-lg-4",
         __source: {
           fileName: _jsxFileName,
@@ -20823,7 +20847,6 @@ function (_React$Component) {
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
         className: "rounded-circle",
         src: "static/item-5.jpg",
-        alt: "Generic placeholder image",
         width: "140",
         height: "140",
         __source: {
@@ -20849,16 +20872,23 @@ function (_React$Component) {
           lineNumber: 133
         },
         __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
+        href: "/products",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 133
+        },
+        __self: this
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
         className: "btn btn-secondary",
-        href: "#",
+        href: "/products",
         role: "button",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 133
         },
         __self: this
-      }, "View details \xBB"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      }, "View details \xBB")))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "col-lg-4",
         __source: {
           fileName: _jsxFileName,
@@ -20868,7 +20898,6 @@ function (_React$Component) {
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
         className: "rounded-circle",
         src: "static/item-6.jpg",
-        alt: "Generic placeholder image",
         width: "140",
         height: "140",
         __source: {
@@ -20894,16 +20923,23 @@ function (_React$Component) {
           lineNumber: 139
         },
         __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
+        href: "/products",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 139
+        },
+        __self: this
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
         className: "btn btn-secondary",
-        href: "#",
+        href: "/products",
         role: "button",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 139
         },
         __self: this
-      }, "View details \xBB")))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("hr", {
+      }, "View details \xBB"))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("hr", {
         className: "featurette-divider",
         __source: {
           fileName: _jsxFileName,
@@ -20948,7 +20984,6 @@ function (_React$Component) {
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
         className: "featurette-image img-fluid mx-auto",
         src: "static/featurette-1.jpg",
-        alt: "Generic placeholder image",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 151
@@ -21013,7 +21048,6 @@ function (_React$Component) {
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
         className: "featurette-image img-fluid mx-auto",
         src: "static/featurette-2.jpg",
-        alt: "Generic placeholder image",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 163
@@ -21078,7 +21112,6 @@ function (_React$Component) {
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
         className: "featurette-image img-fluid mx-auto",
         src: "static/featurette-3.jpg",
-        alt: "Generic placeholder image",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 175
@@ -21114,7 +21147,7 @@ function (_React$Component) {
 
 /***/ }),
 
-/***/ 6:
+/***/ 8:
 /*!******************************!*\
   !*** multi ./pages/index.js ***!
   \******************************/
@@ -21139,5 +21172,5 @@ module.exports = dll_b2d9fd95b535cd8bf589;
 
 /***/ })
 
-},[[6,"static/runtime/webpack.js","styles"]]]));;
+},[[8,"static/runtime/webpack.js","styles"]]]));;
 //# sourceMappingURL=index.js.map
