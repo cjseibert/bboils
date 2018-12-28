@@ -78,5 +78,9 @@ body {
   letter-spacing: -.05rem;
 }
 
+.event-item {
+  border-bottom: 1px solid;
+}
+
 
 /*# sourceMappingURL=styles.chunk.css.map*/
