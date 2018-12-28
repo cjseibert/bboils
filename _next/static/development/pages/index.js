@@ -20635,7 +20635,7 @@ function (_React$Component) {
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
         className: "rounded-circle",
-        src: "static/item-1.jpg",
+        src: "static/item-2.jpg",
         width: "140",
         height: "140",
         __source: {
@@ -20649,13 +20649,13 @@ function (_React$Component) {
           lineNumber: 104
         },
         __self: this
-      }, "Lotions"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+      }, "Lip Balms"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 105
         },
         __self: this
-      }, "Lotions"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+      }, "Lip Balms"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 106
@@ -20686,7 +20686,7 @@ function (_React$Component) {
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
         className: "rounded-circle",
-        src: "static/item-2.jpg",
+        src: "static/item-3.jpg",
         width: "140",
         height: "140",
         __source: {
@@ -20700,13 +20700,13 @@ function (_React$Component) {
           lineNumber: 110
         },
         __self: this
-      }, "Lip Balms"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+      }, "Soaps"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 111
         },
         __self: this
-      }, "Lip Balms"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+      }, "Soaps"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 112
@@ -20737,7 +20737,7 @@ function (_React$Component) {
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
         className: "rounded-circle",
-        src: "static/item-3.jpg",
+        src: "static/item-4.jpg",
         width: "140",
         height: "140",
         __source: {
@@ -20751,13 +20751,13 @@ function (_React$Component) {
           lineNumber: 116
         },
         __self: this
-      }, "Soaps"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+      }, "Creams"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 117
         },
         __self: this
-      }, "Soaps"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+      }, "Creams"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 118
@@ -20787,7 +20787,7 @@ function (_React$Component) {
         },
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-        className: "col-lg-4",
+        className: "col-lg-4 offset-lg-2",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 123
@@ -20795,7 +20795,7 @@ function (_React$Component) {
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
         className: "rounded-circle",
-        src: "static/item-4.jpg",
+        src: "static/item-5.jpg",
         width: "140",
         height: "140",
         __source: {
@@ -20809,13 +20809,13 @@ function (_React$Component) {
           lineNumber: 125
         },
         __self: this
-      }, "Creams"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+      }, "Chests"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 126
         },
         __self: this
-      }, "Creams"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+      }, "Chests"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 127
@@ -20846,7 +20846,7 @@ function (_React$Component) {
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
         className: "rounded-circle",
-        src: "static/item-5.jpg",
+        src: "static/item-6.jpg",
         width: "140",
         height: "140",
         __source: {
@@ -20860,13 +20860,13 @@ function (_React$Component) {
           lineNumber: 131
         },
         __self: this
-      }, "Chests"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+      }, "Signs"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 132
         },
         __self: this
-      }, "Chests"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+      }, "Signs"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 133
@@ -20886,99 +20886,48 @@ function (_React$Component) {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 133
-        },
-        __self: this
-      }, "View details \xBB")))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-        className: "col-lg-4",
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 135
-        },
-        __self: this
-      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-        className: "rounded-circle",
-        src: "static/item-6.jpg",
-        width: "140",
-        height: "140",
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 136
-        },
-        __self: this
-      }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 137
-        },
-        __self: this
-      }, "Signs"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 138
-        },
-        __self: this
-      }, "Signs"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 139
-        },
-        __self: this
-      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
-        href: "/products",
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 139
-        },
-        __self: this
-      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-        className: "btn btn-secondary",
-        href: "/products",
-        role: "button",
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 139
         },
         __self: this
       }, "View details \xBB"))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("hr", {
         className: "featurette-divider",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 143
+          lineNumber: 137
         },
         __self: this
       }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "row featurette",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 145
+          lineNumber: 139
         },
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "col-md-7",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 146
+          lineNumber: 140
         },
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
         className: "featurette-heading",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 147
+          lineNumber: 141
         },
         __self: this
       }, "All Natural Products"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
         className: "lead",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 148
+          lineNumber: 142
         },
         __self: this
       }, "Our products are made from naturally sourced raw materials.")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "col-md-5",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 150
+          lineNumber: 144
         },
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
@@ -20986,63 +20935,63 @@ function (_React$Component) {
         src: "static/featurette-1.jpg",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 151
+          lineNumber: 145
         },
         __self: this
       }))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("hr", {
         className: "featurette-divider",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 155
+          lineNumber: 149
         },
         __self: this
       }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "row featurette",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 157
+          lineNumber: 151
         },
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "col-md-7 order-md-2",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 158
+          lineNumber: 152
         },
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
         className: "featurette-heading",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 159
+          lineNumber: 153
         },
         __self: this
       }, "Custom Work"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
         className: "lead",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 160
+          lineNumber: 154
         },
         __self: this
       }, "We specialize in creating custom products to suit your needs. Find out more ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
         href: "/custom",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 160
+          lineNumber: 154
         },
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
         href: "/custom",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 160
+          lineNumber: 154
         },
         __self: this
       }, "here")))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "col-md-5 order-md-1",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 162
+          lineNumber: 156
         },
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
@@ -21050,63 +20999,63 @@ function (_React$Component) {
         src: "static/featurette-2.jpg",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 163
+          lineNumber: 157
         },
         __self: this
       }))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("hr", {
         className: "featurette-divider",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 167
+          lineNumber: 161
         },
         __self: this
       }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "row featurette",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 169
+          lineNumber: 163
         },
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "col-md-7",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 170
+          lineNumber: 164
         },
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
         className: "featurette-heading",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 171
+          lineNumber: 165
         },
         __self: this
       }, "Our Locations"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
         className: "lead",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 172
+          lineNumber: 166
         },
         __self: this
       }, "We can be found participating at many markets and shops. Click ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
         href: "/events",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 172
+          lineNumber: 166
         },
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
         href: "/events",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 172
+          lineNumber: 166
         },
         __self: this
       }, "here")), " to find out where you can find us next!")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "col-md-5",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 174
+          lineNumber: 168
         },
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
@@ -21114,7 +21063,7 @@ function (_React$Component) {
         src: "static/featurette-3.jpg",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 175
+          lineNumber: 169
         },
         __self: this
       })))));
@@ -21147,7 +21096,7 @@ function (_React$Component) {
 
 /***/ }),
 
-/***/ 8:
+/***/ 6:
 /*!******************************!*\
   !*** multi ./pages/index.js ***!
   \******************************/
@@ -21172,5 +21121,5 @@ module.exports = dll_b2d9fd95b535cd8bf589;
 
 /***/ })
 
-},[[8,"static/runtime/webpack.js","styles"]]]));;
+},[[6,"static/runtime/webpack.js","styles"]]]));;
 //# sourceMappingURL=index.js.map

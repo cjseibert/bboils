@@ -30,27 +30,6 @@ body {
   color: inherit;
 } 
 
-.category-item {
-  background-color: #baa898;
-}
-
-.product-header {
-  text-align: center;
-}
-
-.product-item {
-  border-top: 1px solid #280003;
-}
-
-.product-item button {
-  background-color: #280003;
-  border-color: #280003;
-}
-
-.final-border {
-  border-top: 1px solid #280003;
-} 
-
 .carousel {
   margin-top: 1rem;
   margin-bottom: 4rem;
@@ -97,10 +76,6 @@ body {
   font-weight: 300;
   line-height: 1;
   letter-spacing: -.05rem;
-}
-
-.event-item {
-  border-bottom: 1px solid;
 }
 
 
